@@ -1,0 +1,7 @@
+{
+  "name": "capacitor-camera-additional-photos-saved",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
